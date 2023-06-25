@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "build": "BUILD_PATH=../server/public nuxt build",
+    "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
