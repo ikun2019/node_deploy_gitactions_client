@@ -16,5 +16,18 @@
     "vue-server-renderer": "^2.7.10",
     "vue-template-compiler": "^2.7.10"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "description": "## Build Setup",
+  "main": "nuxt.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikun2019/node_deploy_gitactions_client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikun2019/node_deploy_gitactions_client/issues"
+  },
+  "homepage": "https://github.com/ikun2019/node_deploy_gitactions_client#readme"
 }
