@@ -1,6 +1,6 @@
 const URL = 'http://localhost:8000';
 
-export default {
+module.exports = {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'client',
@@ -52,5 +52,5 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
   },
-  // buildDir: '../server/public'
+  buildDir: '../server/public'
 }
